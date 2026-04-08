@@ -30,11 +30,10 @@ Data are passed through 3 layers:
 - Marts: Final Data Model (Joined and Enhanced Tables)
 
 <p align="center">
-    <img src="Payroll Dataset Generator/payroll-diagram.svg" alt="architecture" style="border-radius: 10px;">
+    <img src="Payroll Dataset /payroll-diagram.svg" alt="architecture" style="border-radius: 10px;">
     </br>
   Project Architecture
 </p>
-
 
 
 ## Semantic Model
