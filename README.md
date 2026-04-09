@@ -111,9 +111,9 @@ Understand overall payroll cost and identify key drivers of payroll variance.
 ## ⚖️ Page 2 – Payroll Compliance Analysis
 
 <p align="center">
-    <img src="Power BI/Payroll_Dashboard-2.png" alt="Employee Analysis" style="border-radius: 10px;">
+    <img src="Power BI/Page 2 Payroll Compliance Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
     </br>
-  Employee Analysis
+    Compliance Analysis
 </p>
 
 ### 🎯 Objective
@@ -138,6 +138,11 @@ Detect underpayment risk by comparing actual pay against mandatory pay baseline.
 
 ## 👥 Page 3 – Employee Analysis  
 
+<p align="center">
+    <img src="Power BI/Page 2 Payroll Compliance Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
+    </br>
+  Employee Analysis
+</p>
 ### 🎯 Objective  
 Identify employee-level drivers of payroll variance.
 
@@ -159,6 +164,12 @@ Identify employee-level drivers of payroll variance.
 ---
 
 ## ⚙️ Page 4 – Workforce Behavior & Cost Efficiency  
+
+<p align="center">
+    <img src="Power BI/Page 2 Payroll Compliance Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
+    </br>
+  Workforce Behavior & Cost Efficiency
+</p>
 
 ### 🎯 Objective  
 Evaluate workforce utilization and its impact on payroll efficiency.
