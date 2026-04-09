@@ -139,7 +139,7 @@ Detect underpayment risk by comparing actual pay against mandatory pay baseline.
 ## 👥 Page 3 – Employee Analysis  
 
 <p align="center">
-    <img src="Power BI/Page 2 Payroll Compliance Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
+    <img src="Power BI/Page 3 Employee Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
     </br>
   Employee Analysis
 </p>
